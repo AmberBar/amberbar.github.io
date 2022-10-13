@@ -28,7 +28,7 @@ jobs:
           cache-dependency-path: docs/package-lock.json
 
       - name: 安装依赖
-        run: npm install
+        run: cd docs && npm install
 
       - name: 构建文档
         env:
