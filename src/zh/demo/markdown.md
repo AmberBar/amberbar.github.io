@@ -305,7 +305,7 @@ span {
 
 #### 样式化
 
-向 Mr.Hope 捐赠一杯咖啡。 _Recommended_
+向 amber.lei 捐赠一杯咖啡。 _Recommended_
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/stylize.html)
 

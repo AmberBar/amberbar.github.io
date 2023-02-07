@@ -325,7 +325,7 @@ span {
 
 #### Stylize
 
-Donate Mr.Hope a cup of coffee. _Recommended_
+Donate amber.lei a cup of coffee. _Recommended_
 
 - [View Detail](https://theme-hope.vuejs.press/guide/markdown/stylize.html)
 
