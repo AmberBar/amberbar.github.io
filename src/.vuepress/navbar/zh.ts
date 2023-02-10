@@ -9,26 +9,23 @@ export const zhNavbar = navbar([
   },
   {
     text: "微服务",
-    icon: "creative",
     prefix: "/micro/",
     children: [
       {
         text: "Spring Cloud",
-        icon: "creative",
         prefix: "cloud/",
-        children: ["info", { text: "Spring Cloud", icon: "more", link: "" }],
+        children: ["info", { text: "Spring Cloud", link: "" }],
       },
       {
         text: "Dubbo",
-        icon: "creative",
         prefix: "dubbo/",
-        children: ["info", { text: "Spring Cloud", icon: "more", link: "" }],
+        children: ["info", { text: "Spring Cloud",  link: "" }],
       },
       {
         text: "Foo",
         icon: "config",
         prefix: "foo/",
-        children: ["ray", { text: "...", icon: "more", link: "" }],
+        children: ["ray", { text: "...",  link: "" }],
       },
     ],
   },

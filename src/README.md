@@ -35,7 +35,6 @@ features:
     link: https://theme-hope.vuejs.press/guide/feature/comment.html
 
   - title: Article information
-    icon: info
     details: Add author, writing date, reading time, word count and other information to your article
     link: https://theme-hope.vuejs.press/guide/feature/page-info.html
 

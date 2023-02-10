@@ -8,7 +8,7 @@ export const zhSidebar = sidebar({
       icon: "lightbulb",
       activeMatch: "^/zh/guide/$",
     },
-    { text: "微服务", link: "/micro/cloud/README.md", icon: "config" },
+    { text: "微服务", link: "/micro/README.md" },
     "slides",
   ],
   "/micro/cloud": "structure"
