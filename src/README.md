@@ -7,7 +7,7 @@ heroText: Project name
 tagline: You can place the description of the project here.
 actions:
   - text: How to Use 💡
-    link: /demo/
+    link: /java/
     type: primary
 
   - text: Docs

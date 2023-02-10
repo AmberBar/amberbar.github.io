@@ -1,5 +1,5 @@
 ---
-title: Features Demo
+title: Java基础
 index: false
 icon: discover
 category:
