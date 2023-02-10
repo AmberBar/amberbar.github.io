@@ -13,16 +13,16 @@ export const zhNavbar = navbar([
     prefix: "/micro/",
     children: [
       {
-        text: "Bar",
-        icon: "creative",
-        prefix: "dubbo/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
-      },
-      {
-        text: "Bar",
+        text: "Spring Cloud",
         icon: "creative",
         prefix: "cloud/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
+        children: ["info", { text: "Spring Cloud", icon: "more", link: "" }],
+      },
+      {
+        text: "Dubbo",
+        icon: "creative",
+        prefix: "dubbo/",
+        children: ["info", { text: "Spring Cloud", icon: "more", link: "" }],
       },
       {
         text: "Foo",

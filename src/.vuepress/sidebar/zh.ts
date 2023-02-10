@@ -2,20 +2,14 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
   "/": [
-    "/README.md", "/java/README.md",
-    // {
-    //   icon: "discover",
-    //   text: "案例",
-    //   prefix: "demo/",
-    //   link: "demo/",
-    //   children: "structure",
-    // },
-    // {
-    //   text: "文档",
-    //   icon: "note",
-    //   prefix: "guide/",
-    //   children: "structure",
-    // },
+    {
+      text: "Java",
+      link: "/java/README.md",
+      icon: "lightbulb",
+      activeMatch: "^/zh/guide/$",
+    },
+    { text: "微服务", link: "/micro/cloud/README.md", icon: "config" },
     "slides",
   ],
+  "/micro/cloud": "structure"
 });
