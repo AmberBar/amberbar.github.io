@@ -1,1 +1,0 @@
-import{ab as t,G as a,H as o,E as e,S as c}from"./framework-b31a425c.js";const n={},r=e("h1",{id:"微服务介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#微服务介绍","aria-hidden":"true"},"#"),c(" 微服务介绍")],-1),s=[r];function _(d,i){return a(),o("div",null,s)}const h=t(n,[["render",_],["__file","info.html.vue"]]);export{h as default};
