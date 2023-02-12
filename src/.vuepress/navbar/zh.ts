@@ -30,8 +30,13 @@ export const zhNavbar = navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "算法",
     icon: "note",
-    link: "https://theme-hope.vuejs.press//",
+    link: "/algorithm"
   },
+  // {
+  //   text: "V2 文档",
+  //   icon: "note",
+  //   link: "https://theme-hope.vuejs.press//",
+  // },
 ]);

@@ -12,9 +12,9 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "wechat.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "AmberBar/amberbar.github.io",
 
   docsDir: "demo/theme-docs/src",
 

@@ -11,5 +11,7 @@ export const zhSidebar = sidebar({
     { text: "微服务", link: "/micro/README.md" },
     "slides",
   ],
-  "/micro/cloud": "structure"
+  "/micro/cloud": "structure",
+  "/micro/dubbo": "structure",
+  "/algorithm": "structure"
 });
