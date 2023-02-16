@@ -1,4 +1,10 @@
-# Oauth2.0
+---
+title: Oauth2.0的基本介绍
+index: 1
+category:
+  - Guide
+---
+# 1. Oauth2.0的基本介绍
 [Oauth2.0](https://www.rfc-editor.org/rfc/rfc6749) （Open Authorization）是一个关于授权(authorization)的开放网络标准,允许用户授权访问他们存在另外服务提供者上的信息，并且不需要将用户名和密码提供给第三方应用。目前Oauth有两个版本1.0和2.0
 
 > 举个例子: 平时我们登录新浪微博时，可以使用微信授权登录。登录时，并没有告诉新浪我们在微信的用户名密码，而是进行了授权
@@ -70,8 +76,6 @@ http://127.0.0.1:8081/user/getCurrentUser
     "name": "amber"
 }
 ```
-## JWTS/JWTK
-
 
 # TODO
 TokenEndpoint

@@ -1,3 +1,11 @@
+---
+title: 密码模式
+index: false
+icon: discover
+category:
+  - Guide
+---
+# 密码模式
 ## Password 密码模式
 
 ```java
