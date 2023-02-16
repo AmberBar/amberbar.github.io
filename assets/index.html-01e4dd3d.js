@@ -1,1 +1,0 @@
-import{ab as t,G as n,H as o,E as e,S as s}from"./framework-b31a425c.js";const a={},c=e("h1",{id:"spring-cloud",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#spring-cloud","aria-hidden":"true"},"#"),s(" Spring Cloud")],-1),r=e("p",null,"微服务",-1),d=[c,r];function i(_,l){return n(),o("div",null,d)}const u=t(a,[["render",i],["__file","index.html.vue"]]);export{u as default};
