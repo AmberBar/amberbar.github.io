@@ -19,15 +19,13 @@ export const zhNavbar = navbar([
       {
         text: "Dubbo",
         prefix: "dubbo/",
-        children: ["info", { text: "Spring Cloud",  link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "config",
-        prefix: "foo/",
-        children: ["ray", { text: "...",  link: "" }],
-      },
+        children: ["info", { text: "dubbo",  link: "" }],
+      }
     ],
+  },
+  {
+    text: "容器化",
+    link: "/container"
   },
   {
     text: "算法",

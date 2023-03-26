@@ -13,5 +13,6 @@ export const zhSidebar = sidebar({
   ],
   "/micro/cloud": "structure",
   "/micro/dubbo": "structure",
-  "/algorithm": "structure"
+  "/algorithm": "structure",
+  "/container": "structure"
 });

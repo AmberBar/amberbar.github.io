@@ -1,7 +1,5 @@
 ---
 title: 密码模式
-index: false
-icon: discover
 category:
   - Guide
 ---
